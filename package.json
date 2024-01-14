@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "npm run-test",
-    "build": "run build && npm run exit"
+    "build": "node index.js"
   },
   "repository": {
     "type": "git",
