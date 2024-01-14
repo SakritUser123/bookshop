@@ -1,0 +1,30 @@
+{
+  "name": "bookshop",
+  "version": "1.0.0",
+  "description": "Shopping wesbite to sell books",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run-test",
+    "build": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SakritUser123/bookshop.git"
+  },
+  "keywords": [
+    "javascript",
+    "html",
+    "css",
+    "bookshop"
+  ],
+  "author": "sakrit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SakritUser123/bookshop/issues"
+  },
+  "homepage": "https://github.com/SakritUser123/bookshop#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security"
+  }
+}
